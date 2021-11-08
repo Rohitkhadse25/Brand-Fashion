@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: auto;
 }
 
 .App-logo {
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.navbar-nav{
+margin-left:auto;
+border-bottom:#282c34;
+
+}
+.container-fluid{
+  background-color:  white;
+}
+.brand-name{
+  color:rgb(33, 80, 119) ;
+}
+.img-fluid{
+margin-left: 120px;
 }
